@@ -2,6 +2,8 @@
 
 A battery-powered device that blinks a LED if it doesn't get hugs from a magnet.
 
+![maghug v1.0](maghug-v1.0.jpg)
+
 ## Bill Of Materials (BOM)
 
 | Part  | Description                             | Mouser link                                                                                                |
