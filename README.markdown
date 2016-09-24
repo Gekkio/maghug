@@ -4,6 +4,17 @@ A battery-powered device that blinks a LED if it doesn't get hugs from a magnet.
 
 ![maghug v1.0](maghug-v1.0.jpg)
 
+## What?
+
+![maghug v1.0 with annotations](maghug-v1.0-annotated.jpg)
+
+If the magnet **(B)** near the sensor **(A)** is removed for a long period of
+time, the microcontroller **(D)** powered by the CR2032 coin cell battery
+**(C)** starts blinking the red LED **(E)**.
+
+In this example the magnet is actually an old broken speaker, but any magnet of
+sufficient strength will do.
+
 ## Bill Of Materials (BOM)
 
 | Part  | Description                             | Mouser link                                                                                                |
